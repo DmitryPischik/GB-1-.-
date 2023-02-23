@@ -1,0 +1,15 @@
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\obj\Debug\net6.0\main_program.csproj.AssemblyReference.cache
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\obj\Debug\net6.0\main_program.GeneratedMSBuildEditorConfig.editorconfig
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\obj\Debug\net6.0\main_program.AssemblyInfoInputs.cache
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\obj\Debug\net6.0\main_program.AssemblyInfo.cs
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\obj\Debug\net6.0\main_program.csproj.CoreCompileInputs.cache
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\bin\Debug\net6.0\main_program.exe
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\bin\Debug\net6.0\main_program.deps.json
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\bin\Debug\net6.0\main_program.runtimeconfig.json
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\bin\Debug\net6.0\main_program.dll
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\bin\Debug\net6.0\main_program.pdb
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\obj\Debug\net6.0\main_program.dll
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\obj\Debug\net6.0\refint\main_program.dll
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\obj\Debug\net6.0\main_program.pdb
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\obj\Debug\net6.0\main_program.genruntimeconfig.cache
+E:\Дима\GB\1я четверть. Итоговая поверочная работа\main_program\obj\Debug\net6.0\ref\main_program.dll
