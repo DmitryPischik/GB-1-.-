@@ -1,7 +1,7 @@
 ﻿void Main()
 {
     Console.Write("Введите массив строк, разделяя каждый элемент пробелом: ");
-    string[] strings = Console.ReadLine().Split();
+    string[] strings = (Console.ReadLine() ?? "0").Split();
     int count = 0;
     for (int i = 0; i < strings.Length; i++)
     {
